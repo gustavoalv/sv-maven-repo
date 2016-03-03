@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Aug 08 14:50:58 COT 2014
+http\://localhost\:7080/nexus/content/repositories/internal-releases/.error=
+http\://localhost\:7080/nexus/content/repositories/internal-releases/.lastUpdated=1407527458604
+http\://localhost\:7080/nexus/content/groups/public/.lastUpdated=1407527458696
+http\://localhost\:7080/nexus/content/repositories/internal-snapshots/.lastUpdated=1407527458580
+http\://localhost\:7080/nexus/content/repositories/internal-snapshots/.error=

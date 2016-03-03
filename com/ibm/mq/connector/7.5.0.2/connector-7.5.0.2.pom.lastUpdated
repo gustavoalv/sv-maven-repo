@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Feb 21 15:13:52 COT 2016
+http\://repo.maven.apache.org/maven2/.lastUpdated=1424649337276
+d60b772c6205311fae6fae9f8509986da1fe7029@default-http\://localhost\:7080/nexus/content/groups/public/.lastUpdated=1456085632979
+http\://localhost\:7080/nexus/content/repositories/internal-releases/.lastUpdated=1407365930884
+http\://localhost\:7080/nexus/content/repositories/internal-snapshots/.lastUpdated=1407365930867
+http\://repo.maven.apache.org/maven2/.error=
+http\://localhost\:7080/nexus/content/repositories/internal-snapshots/.error=
+http\://localhost\:7080/nexus/content/groups/public/.error=Could not transfer artifact com.ibm.mq\:connector\:pom\:7.5.0.2 from/to nexus (http\://localhost\:7080/nexus/content/groups/public)\: java.net.ConnectException\: Connection refused\: no further information to http\://localhost\:7080/nexus/content/groups/public/com/ibm/mq/connector/7.5.0.2/connector-7.5.0.2.pom

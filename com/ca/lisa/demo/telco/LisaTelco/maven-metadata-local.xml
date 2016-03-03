@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ca.lisa.demo.telco</groupId>
+  <artifactId>LisaTelco</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160221205643</lastUpdated>
+  </versioning>
+</metadata>
